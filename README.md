@@ -26,6 +26,6 @@ Bu proje, Android platformu üzerinde geliştirilmiş basit bir online giyim ma�
 Uygulama arayüzüne ait ekran görüntüleri Word raporu içerisinde yer almaktadır.
 --------------------------------------------------------------------------------
 
-İSTANBUL AYDIN ÜNİVERSİTESİ
-YÖNETİM VE BİLİŞİM SİSTEMLERİ
+İSTANBUL AYDIN ÜNİVERSİTESİ-
+YÖNETİM VE BİLİŞİM SİSTEMLERİ-
 MERVE ACAR
