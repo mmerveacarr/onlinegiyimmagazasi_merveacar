@@ -1,31 +1,31 @@
 # Online Giyim Mağazası Mobil Uygulaması
 
-Bu proje, Android platformu için geliştirilmiş basit bir online giyim mağazası uygulamasıdır. 
-Kullanıcılar ürün seçimi yapabilir, renk ve beden belirleyebilir, adet seçerek fiyat hesaplayabilir ve ürünleri sepete ekleyebilir.
+Bu proje, Android platformu üzerinde geliştirilmiş basit bir online giyim mağazası uygulamasıdır.
 
----
-
-## 🚀 Özellikler
-
-- Ürün seçimi (Gömlek, Pantolon, Elbise vb.)
-- Renk ve beden seçimi
-- Adet seçimine göre otomatik fiyat hesaplama
-- Sepete ürün ekleme
-- Sepeti temizleme
+## Özellikler
+- Ürün türü seçimi
+- Renk, beden ve adet seçimi
+- Birim fiyat ve toplam tutar hesaplama
+- Sepete ekleme
+- Sepeti görüntüleme ve temizleme
 - SQLite veritabanı kullanımı
-- Basit ve kullanıcı dostu arayüz
 
----
-
-## 🛠 Kullanılan Teknolojiler
-
+## Kullanılan Teknolojiler
 - Java
 - Android Studio
-- SQLite Database
-- XML (Arayüz tasarımı)
+- SQLite
+- XML (UI tasarımı)
 
----
+## Kurulum
+1. Proje GitHub üzerinden indirilir.
+2. Android Studio ile açılır.
+3. Gerekli bağımlılıklar otomatik yüklenir.
 
-İstanbul Aydın Üniversitesi
-Yönetim Bilişim sistemleri
-Merve Acar
+
+## Ekran Görüntüleri
+Uygulama arayüzüne ait ekran görüntüleri Word raporu içerisinde yer almaktadır.
+--------------------------------------------------------------------------------
+
+İSTANBUL AYDIN ÜNİVERSİTESİ
+YÖNETİM VE BİLİŞİM SİSTEMLERİ
+MERVE ACAR
